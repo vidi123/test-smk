@@ -1,5 +1,6 @@
 const printSquare = require("../latihan/latihan2");
 
+
 describe('Square with a length of 5 printing', () => {
   let originalLog;
 
